@@ -1,10 +1,12 @@
 # Destiny Module 4 Portfolio Project Proposal
 
 ## Proposal:
+#Topic/Idea
 
-1. **Topic/Idea** - An organizational App for any user. Using the date object, calendars and upcoming notifications
+- An organizational App for any user. Using the date object, calendars and upcoming notifications
 
-1. **3 User Stories** 
+#3 User Stories
+
 -As a user, I can create a new account to store my information
 
 -As a user, I can log in and acessed my stored schedule
