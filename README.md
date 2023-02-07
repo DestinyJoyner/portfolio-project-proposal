@@ -6,10 +6,15 @@
 
 1. **3 User Stories** 
 -As a user, I can create a new account to store my information
+
 -As a user, I can log in and acessed my stored schedule
+
 -As a user, I can update my login information
+
 -As a user I can see any upcoming events I had previously added 
+
 -As a user I can add an event to my organizer/ calendar
+
 -As a user, I can remove events from my calendar
 
 1. **Wireframes** -- located in the Wireframes Folder
